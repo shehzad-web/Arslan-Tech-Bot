@@ -108,7 +108,7 @@
     <tr>
       <td align="center">
         <h3>🦋 KATABUMP</h3>
-        <a href="https://katapult.io/">
+        <a href="https://katabump.com/">
           <img src="https://img.shields.io/badge/🚀_DEPLOY_ON_KATAPULT-FF6B35?style=for-the-badge&logo=cloudflare&logoColor=white&labelColor=000000" width="220"/>
         </a>
       </td>
